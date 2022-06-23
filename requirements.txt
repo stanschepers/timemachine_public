@@ -1,0 +1,6 @@
+pandas
+scipy
+tensorflow_hub
+coral_ordinal
+tensorflow
+keras
